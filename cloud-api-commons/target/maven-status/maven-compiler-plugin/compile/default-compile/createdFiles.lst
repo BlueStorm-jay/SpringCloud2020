@@ -1,0 +1,4 @@
+com\yun\springcloud\entities\CommonResult.class
+com\yun\springcloud\entities\Payment$PaymentBuilder.class
+com\yun\springcloud\entities\Payment.class
+com\yun\springcloud\entities\CommonResult$CommonResultBuilder.class

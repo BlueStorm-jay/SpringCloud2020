@@ -1,0 +1,18 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /security-springboot
+
+spring:
+  application:
+    name: security-springboot
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
+#  datasource:
+#    type: com.zaxxer.hikari.HikariDataSource
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    username: ${AUTH_MYSQL_USER:root}
+#    password: ${AUTH_MYSQL_PWD:022000}
+#    url: jdbc:mysql://${MYSQL_HOST:127.0.0.1}:${MYSQL_PORT:3306}/${MYSQL_DB:demo}?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowMultiQueries=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=Asia/Shanghai
