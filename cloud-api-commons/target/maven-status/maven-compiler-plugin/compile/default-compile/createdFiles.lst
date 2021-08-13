@@ -1,4 +1,6 @@
 com\yun\springcloud\entities\CommonResult.class
+com\yun\springcloud\enums\ShStatusEnums.class
 com\yun\springcloud\entities\Payment$PaymentBuilder.class
 com\yun\springcloud\entities\Payment.class
+com\yun\springcloud\utils\Result.class
 com\yun\springcloud\entities\CommonResult$CommonResultBuilder.class
